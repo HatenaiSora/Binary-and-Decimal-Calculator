@@ -4,6 +4,7 @@ Decimal calculator made based on an existing binary one. Group project using mob
 ## Features
 * decimal summing calculator
 * input for each digit
+* refresh animation when adding
 
 ## Built with
 * JavaScript
